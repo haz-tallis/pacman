@@ -1,0 +1,62 @@
+﻿  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(149): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(149): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(150): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(150): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(151): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(151): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(179): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(190): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(201): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(311): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(311): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(375): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(375): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(543): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(544): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(658): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(663): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(668): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(673): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(681): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(741): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(742): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(743): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(744): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(750): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(757): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(764): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(771): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(778): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(780): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(782): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(784): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(790): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(791): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(792): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(793): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(809): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(811): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(813): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(815): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(821): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(822): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(823): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Pacman\Pacman.cpp(824): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Pacman.vcxproj -> C:\Users\t016286j\OneDrive - Staffordshire University\FOGGSD\Pacman\Debug\Pacman.exe
